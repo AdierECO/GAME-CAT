@@ -15,7 +15,7 @@ Solo necesitas **instalar, ejecutar y jugar**. Fácil y rápido.
 
 ### 1️⃣ Clonar el repositorio
 ```bash
-git clone https://github.com/tu-usuario/juego-del-gato.git
+git clone https://github.com/AdierECO/GAME-CAT.git
 cd juego-del-gato
 ```
 ### 2️⃣ Ejecutar la aplicación
