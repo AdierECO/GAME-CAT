@@ -31,6 +31,8 @@ Cuando se te solicite, ingresa tu nombre y el de tu oponente. 📝
 ### 4️⃣ ¡A jugar!
 Coloca tus marcas (X o O) y trata de hacer línea antes que tu oponente. 🏆
 
+---
+
 ## 🎮 Cómo jugar
 ### Acción	Descripción
 - ❌ Colocar X	Haz clic en la casilla que quieras marcar
