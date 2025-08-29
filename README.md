@@ -40,7 +40,9 @@ Coloca tus marcas (X o O) y trata de hacer línea antes que tu oponente. 🏆
 
 💡 Tip: Observa y bloquea a tu oponente para ganar.
 
-##✨ Contribuciones
+---
+
+## ✨ Contribuciones
 ¡Las mejoras son bienvenidas!
 
 Haz un fork del repositorio.
